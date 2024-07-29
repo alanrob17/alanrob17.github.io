@@ -1,11 +1,14 @@
 ---
 layout: post
 title: My first post!
+excerpt_separator: "<!--more-->"
 ---
 
 This is my first post for Github.io.
 
 ![_config.yml]({{ site.baseurl }}/images/three-sisters.jpg)
+
+<!--more-->
 
 I have just added a photo of one of my favourite places in the world, the Three Sisters, Glencoe.
 
