@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a developer working in Melbourne. I mainly work in C# and ASP.Net. I also develop in JavaScript using Node.js.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am currently building content for my Github Pages blog.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[alanshakey@sharklasers.com](mailto:alanshakey@sharklasers.com)
